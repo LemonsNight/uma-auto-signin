@@ -53,7 +53,7 @@ npm install
 
    - `KOMOE_COOKIE`: 你的 Komoe 平台 Cookie
 
-3. GitHub Actions 会在每天早上 9 点（北京时间）自动运行签到脚本
+3. GitHub Actions 会在每天早上 9 点（北京时间）自动运行签到脚本,需要注意的是，该签到会有所延迟，大概2小时这样
 
    你也可以通过 GitHub Actions 页面手动触发工作流
 
